@@ -25,3 +25,6 @@ b. Three finger double tap toggles between editing the enemy and normal game fun
 c. Collision detection happens in ViewController.m's update function. I check every GameObject in the maze array to see if it collides with the enemy and if it does, it rotates the enemy. The enemy is just always moving in a direction.
 
 The Golden Goose model was given freely to other students as an enemy.
+
+## More Details
+- Check report
