@@ -27,4 +27,4 @@ c. Collision detection happens in ViewController.m's update function. I check ev
 The Golden Goose model was given freely to other students as an enemy.
 
 ## More Details
-- Check report
+- Check COMP8051_Asst3.pdf
